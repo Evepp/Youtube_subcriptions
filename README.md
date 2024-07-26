@@ -1,4 +1,4 @@
-# Prediction of Youtube subscriptions
-The data in the following file is inspired by a database found at this link, curated by the Tilburg School Hub: https://www.kaggle.com/datasets/thedevastator/revealing-insights-from-youtube-video-and-channe. All data credits go to Dr. Vishwanath Seshagiri.
+# Assessing YouTube Channel Consistency: Analyzing Video Output and Channel Longevity
+The dataset used in this analysis is based on a database available at the following link, curated by the Tilburg School Hub: https://www.kaggle.com/datasets/thedevastator/revealing-insights-from-youtube-video-and-channe. The dataset is credited to Dr. Vishwanath Seshagiri.
 
-Main objective: to determine the interaction value related to the number of videos a channel has and its duration of existence. This can serve as a proxy for the consistency with which the YouTuber posts videos throughout the channel's lifespan.
+The primary objective of this study is to evaluate the interaction variable, which considers the number of videos a channel has produced and the duration of the channel's existence. This metric serves as a proxy for assessing the consistency with which the YouTuber uploads content over the channel's lifespan.
